@@ -8,7 +8,7 @@ export class HomeService {
   public api_url: string;
 
   constructor(public http: Http) {
-    this.api_url = 'https://cryptic-anchorage-92733.herokuapp.com';
+    this.api_url = 'YOUR_API_URL';
   }
 
 
